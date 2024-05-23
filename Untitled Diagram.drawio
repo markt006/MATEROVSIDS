@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T02:04:49.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="pTIZCleGEDVqnKxM9_k1" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T02:28:00.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="uq0eqKbjIiPkfkZAt6ed" version="24.4.4" type="github">
   <diagram name="Page-1" id="doaNbLGYiiKzRFzNWdXi">
-    <mxGraphModel dx="529" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="635" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,12 +23,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="74.5" as="sourcePoint" />
             <mxPoint x="260" y="74.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="KtZ6byTwQnFwZSQ_47y7-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="50" as="sourcePoint" />
-            <mxPoint x="260" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-21" value="&lt;div&gt;Data&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" collapsed="1" parent="1">
@@ -416,8 +410,19 @@
           <mxGeometry x="252.5" y="362.5" width="75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-144" value="30A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="220" y="358" width="60" height="30" as="geometry">
+          <mxGeometry x="300" y="357.5" width="60" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-145" value="&lt;div&gt;48V Fuse Calculations&lt;/div&gt;&lt;div&gt;Eight Thrusters, 5A@48V each = 40 amps&lt;/div&gt;&lt;div&gt;Onboard Computers + Sensors = 1.6A@48V&lt;br&gt;&lt;/div&gt;&lt;div&gt;Two lights, 0.3125A@48V each = 0.625 amps&lt;/div&gt;&lt;div&gt;Stepper motor = 0.5A@48V&lt;/div&gt;&lt;div&gt;Two servos, 0.208A@48V each = 0.416 amps&lt;/div&gt;&lt;div&gt;Camera = 0.03A@48V&lt;/div&gt;&lt;div&gt;Total Current = 43.171A&lt;/div&gt;&lt;div&gt;Efficiency of 48V-&amp;gt;24V DC-DC converter is 95%, true total current = 45.33 amps&lt;/div&gt;&lt;div&gt;Overcurrent = 150% * 45.33 = 68 amps&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse will be 30A&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry y="320" width="250" height="170" as="geometry">
+            <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-147" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KtZ6byTwQnFwZSQ_47y7-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="70" as="sourcePoint" />
+            <mxPoint x="260" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
