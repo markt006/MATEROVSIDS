@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
   <diagram name="Page-1" id="doaNbLGYiiKzRFzNWdXi">
-    <mxGraphModel dx="930" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,12 +50,6 @@
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KtZ6byTwQnFwZSQ_47y7-6" target="KtZ6byTwQnFwZSQ_47y7-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="280" as="sourcePoint" />
-            <mxPoint x="550" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-29" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="620" y="400" width="120" height="80" as="geometry" />
         </mxCell>
@@ -98,16 +92,10 @@
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-28" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="KtZ6byTwQnFwZSQ_47y7-33" source="KtZ6byTwQnFwZSQ_47y7-25" target="KtZ6byTwQnFwZSQ_47y7-13" edge="1">
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-28" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="KtZ6byTwQnFwZSQ_47y7-33" source="KtZ6byTwQnFwZSQ_47y7-25" target="KtZ6byTwQnFwZSQ_47y7-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="210" as="sourcePoint" />
             <mxPoint x="20" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KtZ6byTwQnFwZSQ_47y7-6" target="KtZ6byTwQnFwZSQ_47y7-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="120" as="sourcePoint" />
-            <mxPoint x="680" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-37" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -267,7 +255,7 @@
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-116" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="KtZ6byTwQnFwZSQ_47y7-115" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-117" value="Stepper Driver Motor for Robotic Arm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="KtZ6byTwQnFwZSQ_47y7-115" vertex="1" collapsed="1">
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-117" value="24 to 28VDC DC-DC Converter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="KtZ6byTwQnFwZSQ_47y7-115" vertex="1" collapsed="1">
           <mxGeometry x="10" y="25" width="100" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -278,7 +266,7 @@
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-122" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="KtZ6byTwQnFwZSQ_47y7-121" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-123" value="Stepper Motor for Robotic Arm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="KtZ6byTwQnFwZSQ_47y7-121" vertex="1" collapsed="1">
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-123" value="Volz DA-22 Sub Actuator for Robotic Arm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="KtZ6byTwQnFwZSQ_47y7-121" vertex="1" collapsed="1">
           <mxGeometry x="10" y="25" width="100" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -346,7 +334,7 @@
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-104" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="KtZ6byTwQnFwZSQ_47y7-103" vertex="1">
           <mxGeometry width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-105" value="8x ESCs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="KtZ6byTwQnFwZSQ_47y7-103" vertex="1" collapsed="1">
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-105" value="8x Blue Robotics Basic ESCs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="KtZ6byTwQnFwZSQ_47y7-103" vertex="1" collapsed="1">
           <mxGeometry x="10" y="25" width="100" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -409,13 +397,13 @@
         <mxCell id="KtZ6byTwQnFwZSQ_47y7-143" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.miscellaneous.fuse_1;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="362.5" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-144" value="30A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-144" value="20A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="300" y="357.5" width="60" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtZ6byTwQnFwZSQ_47y7-145" value="&lt;div&gt;48V Fuse Calculations&lt;/div&gt;&lt;div&gt;Eight Thrusters, 5A@48V each = 40 amps&lt;/div&gt;&lt;div&gt;Onboard Computers + Sensors = 1.6A@48V&lt;br&gt;&lt;/div&gt;&lt;div&gt;Two lights, 0.3125A@48V each = 0.625 amps&lt;/div&gt;&lt;div&gt;Stepper motor = 0.5A@48V&lt;/div&gt;&lt;div&gt;Two servos, 0.208A@48V each = 0.416 amps&lt;/div&gt;&lt;div&gt;Camera = 0.03A@48V&lt;/div&gt;&lt;div&gt;Total Current = 43.171A&lt;/div&gt;&lt;div&gt;Efficiency of 48V-&amp;gt;24V DC-DC converter is 95%, true total current = 45.33 amps&lt;/div&gt;&lt;div&gt;Overcurrent = 150% * 45.33 = 68 amps&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse will be 30A&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry y="320" width="250" height="170" as="geometry">
+        <mxCell id="KtZ6byTwQnFwZSQ_47y7-145" value="&lt;div&gt;Condition: Full Down Thrust, Full Forward Thrust&lt;/div&gt;&lt;div&gt;FLA = 12A&lt;/div&gt;&lt;div&gt;Fuse size selected based on table and FLA&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse = 20A&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry y="40" width="270" height="170" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -424,6 +412,30 @@
             <mxPoint x="190" y="70" as="sourcePoint" />
             <mxPoint x="260" y="45" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <object label="Internal 5V Step Down" id="YFcSXKNce1uvGu7f9DYM-2">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;metaEdit=1;" edge="1" parent="1" source="KtZ6byTwQnFwZSQ_47y7-42" target="KtZ6byTwQnFwZSQ_47y7-25">
+            <mxGeometry x="-0.4236" relative="1" as="geometry">
+              <mxPoint x="430.0000000000002" y="269.9999999999999" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="332" y="260" />
+                <mxPoint x="485" y="260" />
+                <mxPoint x="485" y="320" />
+              </Array>
+              <mxPoint as="offset" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="YFcSXKNce1uvGu7f9DYM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KtZ6byTwQnFwZSQ_47y7-42" target="KtZ6byTwQnFwZSQ_47y7-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="332" y="30" />
+              <mxPoint x="680" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFcSXKNce1uvGu7f9DYM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="KtZ6byTwQnFwZSQ_47y7-38" target="KtZ6byTwQnFwZSQ_47y7-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
