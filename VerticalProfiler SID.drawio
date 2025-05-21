@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Page-1" id="xacfxgz_AN2MpSmGN5SA">
-    <mxGraphModel dx="1209" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
             <mxPoint x="260" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGMf_RvesEZICPI27PIr-13" value="&lt;div&gt;FLA (idle) = 142mA&lt;/div&gt;&lt;div&gt;FLA (buoyancy change) = 293mA&lt;/div&gt;&lt;div&gt;Next standard fuse is 500mA&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse will be 500mA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
+        <mxCell id="gGMf_RvesEZICPI27PIr-13" value="&lt;div&gt;FLA (idle) = 142mA&lt;/div&gt;&lt;div&gt;FLA (buoyancy change) = 412mA&lt;/div&gt;&lt;div&gt;Next standard fuse is 500mA&lt;/div&gt;&lt;div&gt;&lt;b&gt;Fuse will be 500mA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="10" y="190" width="200" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -132,24 +132,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gGMf_RvesEZICPI27PIr-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;entryX=0.675;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" target="gGMf_RvesEZICPI27PIr-35" edge="1" source="gGMf_RvesEZICPI27PIr-24">
+        <mxCell id="gGMf_RvesEZICPI27PIr-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;dashed=1;entryX=0.675;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gGMf_RvesEZICPI27PIr-24" target="gGMf_RvesEZICPI27PIr-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="550" as="sourcePoint" />
             <mxPoint x="460" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckplx21Fd07-ONx7WmHF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckplx21Fd07-ONx7WmHF-2" target="gGMf_RvesEZICPI27PIr-18">
+        <mxCell id="ckplx21Fd07-ONx7WmHF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ckplx21Fd07-ONx7WmHF-2" target="gGMf_RvesEZICPI27PIr-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ckplx21Fd07-ONx7WmHF-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckplx21Fd07-ONx7WmHF-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckplx21Fd07-ONx7WmHF-3" value="Pololu Micro Maestro Servo Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="ckplx21Fd07-ONx7WmHF-3" value="Pololu Micro Maestro Servo Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="160" y="345" width="60" height="30" as="geometry">
             <mxRectangle x="320" y="275" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckplx21Fd07-ONx7WmHF-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ckplx21Fd07-ONx7WmHF-2" target="gGMf_RvesEZICPI27PIr-18">
+        <mxCell id="ckplx21Fd07-ONx7WmHF-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ckplx21Fd07-ONx7WmHF-2" target="gGMf_RvesEZICPI27PIr-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="166" y="469" as="sourcePoint" />
             <mxPoint y="375" as="targetPoint" />
